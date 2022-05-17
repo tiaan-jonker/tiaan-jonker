@@ -2,6 +2,6 @@
 
 ### Hello 👋
 
-* 📚 I just graduated form [Dev Academy](https://devacademy.co.nz/?gclid=Cj0KCQjwgYSTBhDKARIsAB8Kuktbb0DWX4Q7kk5pH-HMplNUiMBA60xYTWzpVqCMnxMTEKjYY5zl0_waAg0aEALw_wcB) full-stack Bootcamp
+* 📚 I just graduated from [Dev Academy](https://devacademy.co.nz/?gclid=Cj0KCQjwgYSTBhDKARIsAB8Kuktbb0DWX4Q7kk5pH-HMplNUiMBA60xYTWzpVqCMnxMTEKjYY5zl0_waAg0aEALw_wcB) full-stack Bootcamp
 * 📬 Reach me on: tiaanj06@gmail.com
 * 🚧 Personal website on the way
