@@ -14,18 +14,18 @@ I recently graduated from [Dev Academys](https://devacademy.co.nz/?gclid=Cj0KCQj
 
 Prior to entering the software development world I was an insurance broker and risk advisor where I worked with Kiwi business ranging from SMEs to NZX listed companies. Customer relationship and deep technical understanding of professional, liability and cyber risks with an appreciation and empathy for business owners’ concerns was key to success.
 
-## Whats next?
+## Whats next? 🤖
 
 I am looking for a full time software development role in Auckland, New Zealand. While I am equally confident with front and back-end development I enjoy front-end more.  
 
-What I want to learn enxt are: 
+What I want to learn next are: 
 
 - React Native
 - TypeScript
 - AWS
 
-My personal protfolio is also on the way!
+My personal portfolio is also on the way! 🚧
 
-## Contact:
+## Connect 📬
 
 Feel free to contact me at any time via [LinkedIn](https://www.linkedin.com/in/tiaan-jonker-45283380/)
