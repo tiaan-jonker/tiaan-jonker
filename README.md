@@ -2,7 +2,7 @@
 
 ---
 
-📈 Github Stats
+## 📈 Github Stats
 
 ---
 
