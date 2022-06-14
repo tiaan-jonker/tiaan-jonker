@@ -29,3 +29,5 @@ My personal portfolio is also on the way! 🚧
 ## Connect 📬
 
 Feel free to contact me at any time via [LinkedIn](https://www.linkedin.com/in/tiaan-jonker-45283380/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaan-jonker)](https://github.com/tiaan-jonker/github-readme-stats)
