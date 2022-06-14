@@ -4,6 +4,4 @@
 
 ## 📈 Github Stats
 
----
-
 [![Tiaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiaan-jonker&show_icons=true&theme=dark)](https://github.com/tiaan-jonker/github-readme-stats)
