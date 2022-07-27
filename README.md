@@ -7,7 +7,6 @@
 
 [![Tiaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiaan-jonker&show_icons=true&theme=dark)](https://github.com/tiaan-jonker/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/tiaan-jonker/github-readme-stats)
 
 <h1 align="center">Hey  I'm Tiaan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
 <h3 align="center"> I am software engineer from New Zealand. I love learning, connecting with people and building things. </h3>
@@ -48,8 +47,9 @@
 
 <br/>
 <br/>
+<a href="https://github.com/tiaan-jonker/github-readme-stats"><img alt="Tiaan Jonker's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaan-jonker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<a href="https://github.com/dipakkr/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dipakkr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/tiaan-jonker/github-readme-stats)
 
 <br/>
 <br/>
