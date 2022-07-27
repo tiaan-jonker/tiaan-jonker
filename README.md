@@ -1,13 +1,3 @@
-![carbon (2)](https://user-images.githubusercontent.com/75296793/173547876-868f76e4-ba4c-4a34-a0be-d59d7f91236b.png)
-
----
-
-## 📈 Github Stats
-
-
-[![Tiaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiaan-jonker&show_icons=true&theme=dark)](https://github.com/tiaan-jonker/github-readme-stats)
-
-
 <h1 align="center">Hey  I'm Tiaan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
 <h3 align="center"> I am software engineer from New Zealand. I love learning, connecting with people and building things. </h3>
 
@@ -47,27 +37,4 @@
 
 <br/>
 <br/>
-<a href="https://github.com/tiaan-jonker/github-readme-stats"><img alt="Tiaan Jonker's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaan-jonker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/tiaan-jonker/github-readme-stats)
-
-<br/>
-<br/>
-
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/dipakkr/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/HQdeepak"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<!-- <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
-
-
-</p>
-
-## ❤ Views and Followers
-
-<a href="https://github.com/dipakkr/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=dipakkr">
-</a>
-<a href="https://github.com/dipakkr?tab=followers"><img src="https://img.shields.io/github/followers/dipakkr?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/tiaan-jonker/github-readme-stats"><img alt="Tiaan Jonker's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaan-jonker&layout=compact&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
