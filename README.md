@@ -9,22 +9,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/tiaan-jonker/github-readme-stats)
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hey  I'm Deepak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
-<h3 align="center"> I am software engineer, indie maker and tech blogger from India. I love building software, contributing to open source projects and tinkering with new ideads. </h3>
+<h1 align="center">Hey  I'm Tiaan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
+<h3 align="center"> I am software engineer from New Zealand. I love learning, connecting with people and building things. </h3>
 
 ## 🙋‍♂️ About Me
 
-- Software Engineer @ Airmeet 
+- Software Engineer @ *enter your company name here* 😁
 
-- Author [A to Z Resources for students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ( 13k stars )
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://tiaanjonker.com/)** -->
 
-- Love building side projects. Built <a href="https://apiforpm.tech"> apiforpm.tech </a>,  <a href="https://stackit.in"> stackit.in </a>, <a href="https://pricingforpm.in"> pricingforpm.in </a> 
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-
-- 📫 Email :  **dipakkr.co@gmail.com**
+- 📫 Email :  **tiaanj06@gmail.com**
 
 
 ## 🚀 Languages and Tools:
